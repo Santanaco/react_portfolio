@@ -47,4 +47,4 @@ The pull request body should describe why these changes are necessary. If there 
 
 ## Contact / Questions
   If you liked this project and want to see more, feel free to check out my other repos [here](https://github.com/santanaco).  
-  For any questions or inquiries, you can reach me at cmcclai26@gmail.com for further information.
+  For any questions or inquiries, you can reach me at imanisantana99@gmail.com for further information.
